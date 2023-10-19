@@ -1,5 +1,6 @@
 # PyBy
 A 12th STD Python Project (Terminal Based Program)
+It contains the working of Notepad, Contact Diary, Calendar and a calculator.
 <br>
 <h1>Read the Documentation!</h1>
 <a href="https://github.com/yashgv/PyBy/blob/main/YashVarmaProjectDocument.pdf">Documentation</a>
