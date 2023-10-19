@@ -1,5 +1,5 @@
 # PyBy
-A 12th STD Python Project (Terminal Based Program)
+A 12th STD Python Project (Terminal Based Program)<br>
 It contains the working of Notepad, Contact Diary, Calendar and a calculator.
 <br>
 <h1>Read the Documentation!</h1>
