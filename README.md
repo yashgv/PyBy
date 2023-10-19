@@ -2,7 +2,7 @@
 A 12th STD Python Project (Terminal Based Program)
 <br>
 <h1>Read the Documentation!</h1>
-<a href="https://github.com/yashgv/PyBy/blob/main/YashVarmaProjectDocument.pdf"></a>
+<a href="https://github.com/yashgv/PyBy/blob/main/YashVarmaProjectDocument.pdf">Documentation</a>
 
 # Steps for installation
 1.  You Must have Python installed in your system
